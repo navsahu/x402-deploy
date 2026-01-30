@@ -5,6 +5,12 @@
 Turn any API or MCP server into a paid service in **5 minutes**. No code changes required.
 
 ---
+[x402 Dashboard](https://x402-dashboard.vercel.app/)
+This repo was originally [nirholas/universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp)
+[View Universal Crypto MCP 🛠️](https://mcp.giving/)
+[Deply x402 Site deploy-x402.vercel.app](deploy-x402.vercel.app)
+As with most of my repos, I spend a lot of time building then find something interesting or have a need for something and i start on the next. I hope this at the very least is a good resource you can use to monetize your APIs and MCP Servers. What I truly hope to build is a community of developers, I love shipping alone but i wouldn't mind collaborating here and there. Please, always feel free to PR and throw an issue down. I am waiting. 
+---
 
 ## ✨ Features
 
