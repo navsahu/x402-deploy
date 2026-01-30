@@ -16,7 +16,7 @@ Turn any API or MCP server into a paid service in **5 minutes**. No code changes
 ## ✨ Features
 
 - **💰 Instant Monetization** - Charge per API call with crypto (USDC on Base)
-- **🚀 1-Click Deploy** - Railway, Fly.io, Vercel, or Docker
+- **🥳 1-Click Deploy** - Railway, Fly.io, Vercel, or Docker
 - **📊 Live Dashboard** - Real-time earnings and analytics
 - **🔍 Auto-Discovery** - Automatic listing on x402scan.com
 - **🛡️ Zero Trust** - Payment verification before API access
@@ -24,7 +24,7 @@ Turn any API or MCP server into a paid service in **5 minutes**. No code changes
 
 ---
 
-## 🚀 Quick Start
+## 🐎 Quick Start
 
 ```bash
 # Install globally
