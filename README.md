@@ -1,5 +1,5 @@
 # x402-deploy
-
+ 
 > 1-click deployment for monetized APIs & MCP servers
 
 Turn any API or MCP server into a paid service in **5 minutes**. No code changes required.
