@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use x402-deploy, please cite it as below."
+type: software
+title: "x402-deploy"
+abstract: "Turn any API or MCP server into a paid service with x402 "
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/x402-deploy"
+url: "https://github.com/nirholas/x402-deploy"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

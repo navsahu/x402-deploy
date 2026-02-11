@@ -495,3 +495,7 @@ By contributing, you agree that your contributions will be licensed under the MI
 ---
 
 Thank you for contributing to x402-deploy! 🎉
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).

@@ -1,0 +1,9 @@
+# x402-deploy
+
+> Turn any API or MCP server into a paid service with x402 
+
+## Links
+
+- Repository: https://github.com/nirholas/x402-deploy
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/x402-deploy/main/llms-full.txt

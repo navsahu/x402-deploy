@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "x402-deploy",
+    "name_for_model": "x402_deploy",
+    "description_for_human": "Turn any API or MCP server into a paid service with x402 ",
+    "description_for_model": "Turn any API or MCP server into a paid service with x402 ",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/x402-deploy/blob/main/LICENSE"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "x402-deploy",
+    "description": "Turn any API or MCP server into a paid service with x402 ",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/x402-deploy",
+    "language": "TypeScript",
+    "topics": [
+        "x402",
+        "nirholas",
+        "open-source",
+        "deploy"
+    ]
+}

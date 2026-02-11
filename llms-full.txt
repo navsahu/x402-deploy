@@ -1,0 +1,18 @@
+# x402-deploy
+
+> Turn any API or MCP server into a paid service with x402 
+
+## Overview
+
+x402-deploy is an open-source project by nirholas. Turn any API or MCP server into a paid service with x402 
+
+## Repository
+
+- URL: https://github.com/nirholas/x402-deploy
+- Language: TypeScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.
